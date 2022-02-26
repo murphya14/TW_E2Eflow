@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/murphya14/TW_E2Eflow#readme",
   "devDependencies": {
-    "@playwright/test": "^1.19.2"
+    "@playwright/test": "^1.19.2",
+    "playwright": "^1.19.2"
   }
 }
