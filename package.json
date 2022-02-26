@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Playwright/ Javascript",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "npx playwright test",
+    "test-debug": "PWDEBUG=1 npx playwright test",
+    "test-debug-windows": "set PWDEBUG=1 && npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/murphya14/TW_E2Eflow.git"
