@@ -1,0 +1,21 @@
+{
+  "name": "tw_e2eflow",
+  "version": "1.0.0",
+  "description": "Playwright/ Javascript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murphya14/TW_E2Eflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murphya14/TW_E2Eflow/issues"
+  },
+  "homepage": "https://github.com/murphya14/TW_E2Eflow#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.19.2"
+  }
+}
